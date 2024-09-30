@@ -18,7 +18,7 @@ public class ejercicio56 {
 
         for (int i = 1; i <= estudiantes; i++) {
 
-            System.out.print("nota del estudante :   " + i);
+            System.out.print("nota del estudante :   " + i+ " ");
             nota = leer.nextDouble();
 
             if (nota >= 5.0) {
