@@ -6,12 +6,15 @@ public class actitidad3 {
         boolean b = true;
         boolean c = true;
 
-        if (!a || (b && c)) {
+        if (!a && (b && c)) {
             System.out.println("sentencia if ejecutada");
 
         } else {
             System.out.println(" sentencia else ejecutada");
         }
+//ejerciccio2
+
+
 
     }
 
